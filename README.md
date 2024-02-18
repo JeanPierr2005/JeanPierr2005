@@ -8,7 +8,7 @@
 - 🏫: I'm a technologist at SENA <br>
 - <3: Desing Developer <br>
 - 🌱: I’m currently working on many small projects. <br>
-- 👯: I am currently learning React, Ruby and JavaScript. 🧠💻🤖
+- 👯: I am currently learning React and JavaScript. 🧠💻🤖
 <br>
 <p>
 <div align="center">
